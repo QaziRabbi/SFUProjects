@@ -1,0 +1,19 @@
+{
+  "name": "erp-systems",
+  "version": "1.0.0",
+  "description": "erp system for business",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "RABBI",
+  "license": "ISC",
+  "devDependencies": {
+    "copy-webpack-plugin": "^9.0.1",
+    "electron": "^13.1.7"
+  },
+  "dependencies": {
+    "electron-prebuilt": "^1.4.13",
+    "python-shell": "^3.0.0"
+  }
+}
